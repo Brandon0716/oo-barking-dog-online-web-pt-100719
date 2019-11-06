@@ -1,5 +1,6 @@
 class Dog 
-   def name=(Grayson")
+   def name=(grayson)
+     
  end
   
   
